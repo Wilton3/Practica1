@@ -1,14 +1,14 @@
-//Creado por stalin
+//Creado por Jeohassin Wilton Orejuela Garcia
 #include<iostream>
 using namespace std;
 
 int main()
 {
 
- float x,y,z;
- cout<<"Ingrese 2 numero x y :";
- cin>>x>>y;
- z=x+y;
+ float jwog_x,jwog_y,jwog_z;
+ cout<<"Ingrese 2 numero jwog_x jwog_y :";
+ cin>>jwog_x>>jwog_y;
+ jwog_z=jwog_x+jwog_y;
  cout<<"El resutado es : ";
  cout<<z<<endl;
 
